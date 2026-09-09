@@ -8,7 +8,7 @@ permission traps — critical findings block the merge.
 
 | | |
 |---|---|
-| 🧪 Deterministic | 12 rule classes, 47 tests, no LLM in the scan path |
+| 🧪 Deterministic | 12 rule classes, 85 tests, no LLM in the scan path |
 | 📊 Verified | 30 public repos scanned, 5 with critical findings, byte-checked |
 | 🌍 Multi-harness | Claude Code · Codex · Cursor · OpenCode |
 | 🤖 Live bot | PR comments + check-run gates (see the [blocked-attack demo](https://github.com/agentguard-dev/agentguard-demo/pull/2)) |
